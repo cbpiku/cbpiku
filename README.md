@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandan
 - 👀 I’m interested in DevOps , Build and Integration .
-- 🌱 I’m currently Docker, Ansible , Kubernets.
+- 🌱 I’m currently working on Jenkins Docker, Ansible.
 - Contact : itschandan.bera@gmail.com / https://www.linkedin.com/in/chandan-kumar-bera-7512b656/
 
 <!---
